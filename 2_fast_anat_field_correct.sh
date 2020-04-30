@@ -18,15 +18,15 @@
 #
 # Version 2_fast_anat_field_correct.sh has been written by S Goksan and last edited on 03rd APR 2020.  
 #
-# This script has specifically been written to work on T1 structural resting state functional data. 
+# This script has specifically been written to work on T1 structural and resting state functional data. 
 # You may have to edit the code for it to work on other data.
 #
 # Disclaimer:
 # We recommend using the information in this file as guidance only.
-# All scripts have been written specifically for use with the dataset described in Goksan et al., 2020, in prep. 
+# All scripts have been written specifically for use with the dataset described in Goksan et al., 2020, submitted. 
 # There is no guarantee that it will work on another data set. 
 # 
-# If you do use this script, please reference Goksan et al., 2020, in prep
+# If you do use this script, please reference Goksan et al., 2020, (see READ ME for full details).
 #
 #############################################################################################
 
