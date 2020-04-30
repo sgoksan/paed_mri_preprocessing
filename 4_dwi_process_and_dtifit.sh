@@ -24,10 +24,10 @@
 #
 # Disclaimer:
 # We recommend using the information in this file as guidance only.
-# All scripts have been written specifically for use with the dataset described in Goksan et al., 2020, in prep. 
+# All scripts have been written specifically for use with the dataset described in Goksan et al., 2020, submitted. 
 # There is no guarantee that it will work on another data set. 
 # 
-# If you do use this script, please reference Goksan et al., 2020, in prep
+# If you do use this script, please reference Goksan et al., 2020, (see READ ME for full details).
 #
 ##############################################################################################
 
